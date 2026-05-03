@@ -1,4 +1,4 @@
-![Deskripsi Foto](Foto.png)
+![](Foto.png)
 
 # Queue Repeat — Spicetify Extension
 
