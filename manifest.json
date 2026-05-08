@@ -2,7 +2,7 @@
   {
     "name": "QueueRepeat",
     "description": "A Spicetify extension to automatically re-queue tracks and maintain a persistent loop of your current queue.",
-    "preview": "https://github.com/Malikeq/spicetify-queue-repeat/Foto.png",
+    "preview": "https://github.com/Malikeq/spicetify-queue-repeat/blob/main/Preview.gif",
     "main": "queue-repeat.js",
     "readme": "README.md",
     "authors": [
