@@ -1,13 +1,16 @@
 [
   {
-    "name": "Queue Repeat",
-    "description": "Loop your manual queue tracks indefinitely.",
-    "preview": "Foto.png",
+    "name": "QueueRepeat",
+    "description": "A Spicetify extension to automatically re-queue tracks and maintain a persistent loop of your current queue.",
+    "preview": "https://github.com/Malikeq/spicetify-queue-repeat/Foto.png",
     "main": "queue-repeat.js",
     "readme": "README.md",
     "authors": [
-        { "name": "Malikeq", "url": "https://github.com/Malikeq" }
+      { 
+        "name": "Malikeq", 
+        "url": "https://github.com/Malikeq" 
+      }
     ],
-    "tags": ["utility", "queue"]
+    "tags": ["queue", "repeat", "playback-control"]
   }
 ]
